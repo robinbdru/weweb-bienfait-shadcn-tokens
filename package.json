@@ -1,0 +1,8 @@
+{
+	"name": "weweb-bienfait-shadcn-tokens",
+	"version": "0.0.1",
+	"main": "index.css",
+	"files": [
+		"index.css"
+	]
+}
